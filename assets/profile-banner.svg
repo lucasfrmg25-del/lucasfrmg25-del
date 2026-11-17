@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Lucas Freire Data Analytics Fraud Intelligence">
+<defs>
+<linearGradient id="bg" x1="0" x2="1"><stop stop-color="#090e10"/><stop offset="1" stop-color="#111a19"/></linearGradient>
+<linearGradient id="lime" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#ceff38"/><stop offset="1" stop-color="#6fa319"/></linearGradient>
+</defs>
+<rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+<g stroke="#28352d" stroke-width="1" opacity="0.65">
+<path d="M700 48H1165M700 98H1165M700 148H1165M700 198H1165M700 248H1165"/>
+<path d="M740 35V272M800 35V272M860 35V272M920 35V272M980 35V272M1040 35V272M1100 35V272M1160 35V272"/>
+</g>
+<rect x="40" y="50" width="6" height="68" rx="3" fill="#c8ff28"/>
+<text x="70" y="102" font-family="Arial,Helvetica,sans-serif" font-size="53" font-weight="800" fill="#f3f7f4" letter-spacing="2">LUCAS <tspan fill="#c8ff28">FREIRE</tspan></text>
+<text x="72" y="146" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="600" fill="#f1f4ee" letter-spacing="4">DATA ANALYTICS / FRAUD INTELLIGENCE</text>
+<text x="72" y="192" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#b4c0b8">SQL  ·  PYTHON  ·  BI  ·  ETL  ·  FRAUD ANALYTICS</text>
+<rect x="70" y="225" width="480" height="1" fill="#39513a"/>
+<text x="72" y="258" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#c8ff28">Dados confiáveis. Decisões mais seguras.</text>
+<g fill="url(#lime)" opacity="0.8">
+<rect x="735" y="229" width="19" height="42" rx="2"/><rect x="789" y="214" width="19" height="57" rx="2"/><rect x="843" y="194" width="19" height="77" rx="2"/><rect x="897" y="175" width="19" height="96" rx="2"/><rect x="951" y="156" width="19" height="115" rx="2"/><rect x="1005" y="127" width="19" height="144" rx="2"/><rect x="1059" y="103" width="19" height="168" rx="2"/><rect x="1113" y="69" width="19" height="202" rx="2"/>
+</g>
+<polyline points="744,181 798,194 852,144 906,163 960,110 1014,128 1068,80 1122,57" stroke="#c8ff28" stroke-width="4" fill="none" stroke-linejoin="round"/>
+<g fill="#c8ff28"><circle cx="744" cy="181" r="7"/><circle cx="798" cy="194" r="7"/><circle cx="852" cy="144" r="7"/><circle cx="906" cy="163" r="7"/><circle cx="960" cy="110" r="7"/><circle cx="1014" cy="128" r="7"/><circle cx="1068" cy="80" r="7"/><circle cx="1122" cy="57" r="7"/></g>
+</svg>
